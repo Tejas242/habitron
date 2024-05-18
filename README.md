@@ -1,5 +1,5 @@
 # Habitron - A CLI Habit Tracker
-Nothing fancy, Jusr a simple habit tracking application on the cli I made while learning `Rust`.
+Nothing fancy, Just a simple habit tracking application on the cli I made while learning `Rust`.
 It incorporates all the basic habit tracking concepts like
 - adding habits
 - counting habits
