@@ -2,7 +2,7 @@
 Nothing fancy, Just a simple habit tracking application on the cli I made while learning `Rust`.
 It incorporates all the basic habit tracking concepts like
 - adding habits
-- counting habits
+- counting habit streaks
 - removing streaks on a day gap
 - Saving the habits to a external json file.
 - Marking the habits daily as done
